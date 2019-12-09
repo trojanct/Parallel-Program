@@ -1,0 +1,6 @@
+C:\Users\sombr\source\repos\parrellel 1\parrellel 1\bin\Debug\parrellel 1.exe.config
+C:\Users\sombr\source\repos\parrellel 1\parrellel 1\bin\Debug\parrellel 1.exe
+C:\Users\sombr\source\repos\parrellel 1\parrellel 1\bin\Debug\parrellel 1.pdb
+C:\Users\sombr\source\repos\parrellel 1\parrellel 1\obj\Debug\parrellel 1.csprojAssemblyReference.cache
+C:\Users\sombr\source\repos\parrellel 1\parrellel 1\obj\Debug\parrellel 1.exe
+C:\Users\sombr\source\repos\parrellel 1\parrellel 1\obj\Debug\parrellel 1.pdb

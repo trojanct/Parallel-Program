@@ -1,0 +1,6 @@
+C:\Users\sombr\source\repos\parrallel 2\parrallel 2\bin\Debug\parrallel 2.exe.config
+C:\Users\sombr\source\repos\parrallel 2\parrallel 2\bin\Debug\parrallel 2.exe
+C:\Users\sombr\source\repos\parrallel 2\parrallel 2\bin\Debug\parrallel 2.pdb
+C:\Users\sombr\source\repos\parrallel 2\parrallel 2\obj\Debug\parrallel 2.csprojAssemblyReference.cache
+C:\Users\sombr\source\repos\parrallel 2\parrallel 2\obj\Debug\parrallel 2.exe
+C:\Users\sombr\source\repos\parrallel 2\parrallel 2\obj\Debug\parrallel 2.pdb

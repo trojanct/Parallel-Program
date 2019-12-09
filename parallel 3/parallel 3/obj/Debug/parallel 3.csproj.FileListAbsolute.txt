@@ -1,0 +1,6 @@
+C:\Users\sombr\source\repos\parallel 3\parallel 3\bin\Debug\parallel 3.exe.config
+C:\Users\sombr\source\repos\parallel 3\parallel 3\bin\Debug\parallel 3.exe
+C:\Users\sombr\source\repos\parallel 3\parallel 3\bin\Debug\parallel 3.pdb
+C:\Users\sombr\source\repos\parallel 3\parallel 3\obj\Debug\parallel 3.csprojAssemblyReference.cache
+C:\Users\sombr\source\repos\parallel 3\parallel 3\obj\Debug\parallel 3.exe
+C:\Users\sombr\source\repos\parallel 3\parallel 3\obj\Debug\parallel 3.pdb

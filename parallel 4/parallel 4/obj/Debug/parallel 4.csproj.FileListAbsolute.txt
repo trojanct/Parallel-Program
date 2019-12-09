@@ -1,0 +1,6 @@
+C:\Users\sombr\source\repos\parallel 4\parallel 4\bin\Debug\parallel 4.exe.config
+C:\Users\sombr\source\repos\parallel 4\parallel 4\bin\Debug\parallel 4.exe
+C:\Users\sombr\source\repos\parallel 4\parallel 4\bin\Debug\parallel 4.pdb
+C:\Users\sombr\source\repos\parallel 4\parallel 4\obj\Debug\parallel 4.csprojAssemblyReference.cache
+C:\Users\sombr\source\repos\parallel 4\parallel 4\obj\Debug\parallel 4.exe
+C:\Users\sombr\source\repos\parallel 4\parallel 4\obj\Debug\parallel 4.pdb

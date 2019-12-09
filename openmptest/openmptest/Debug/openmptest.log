@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\sombr\source\repos\openmptest\openmptest\Source.cpp(19,9): warning C4101: 'times': unreferenced local variable
+C:\Users\sombr\source\repos\openmptest\openmptest\Source.cpp(17,6): warning C4101: 'result': unreferenced local variable
+  openmptest.vcxproj -> C:\Users\sombr\source\repos\openmptest\Debug\openmptest.exe
