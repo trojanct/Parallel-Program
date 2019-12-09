@@ -15,7 +15,7 @@ namespace parallel_4
 
             //Task tasks1 = new Task;
 
-            //Task factory made 
+            //Task factory made so results can be shown for what the task was mad for
             Task<int> task1 = Task<int>.Factory.StartNew(() =>
             {
                 int results = 5 + 5;
@@ -47,6 +47,7 @@ namespace parallel_4
 
 
             });
+            // results from the tasks
             int task1result = task1.Result;
             int task2result = task2.Result;
             int task3result = task3.Result;

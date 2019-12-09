@@ -15,28 +15,34 @@ namespace parrallel_2
 
         public static void Main()
         {
-            int[] matrix1 = new int [100];
-            int[] matrix2 = new int [100];
+            int[] array1 = new int [100];
+            int[] array2 = new int [100];
+            //Using check to see how it behaves in the for loop
             int check = 0;
-            var timer = new Stopwatch();
 
+            //was going to time but stopwatch was not working;
+            //var timer = new Stopwatch();
+
+            //sequential way of filling an array
             for (int i = 0; i < 100; i++  )
             {
 
 
-                matrix1[i] = i + check;
-                Console.WriteLine("current number{0} equals {1}", i, matrix1[i] );
+                array1[i] = i + check;
+                Console.WriteLine("current number{0} equals {1}", i, array1[i] );
                 check = i + 5;
 
             }
-
+            // putting check bakc to zero
             check = 0;
+
+            //parallel for option for filling an array.
             Console.WriteLine("parallel start");
             Parallel.For(0, 100, new ParallelOptions() { MaxDegreeOfParallelism = Environment.ProcessorCount }, i =>
               {
 
-                  matrix2[i] = i + check;
-                  Console.WriteLine("current number{0} equals {1}", i, matrix2[i]);
+                  array2[i] = i + check;
+                  Console.WriteLine("current number{0} equals {1}", i, array2[i]);
                   check = i + 5;
 
 
